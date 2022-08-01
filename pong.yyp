@@ -2,6 +2,7 @@
   "resources": [
     {"id":{"name":"spr_bola","path":"sprites/spr_bola/spr_bola.yy",},"order":0,},
     {"id":{"name":"snd_boing","path":"sounds/snd_boing/snd_boing.yy",},"order":0,},
+    {"id":{"name":"obj_bola","path":"objects/obj_bola/obj_bola.yy",},"order":1,},
     {"id":{"name":"spr_background","path":"sprites/spr_background/spr_background.yy",},"order":2,},
     {"id":{"name":"obj_raquete","path":"objects/obj_raquete/obj_raquete.yy",},"order":0,},
     {"id":{"name":"spr_padle","path":"sprites/spr_padle/spr_padle.yy",},"order":1,},
@@ -14,7 +15,7 @@
     {"name":"Windows","path":"options/windows/options_windows.yy",},
     {"name":"operagx","path":"options/operagx/options_operagx.yy",},
   ],
-  "defaultScriptType": 0,
+  "defaultScriptType": 1,
   "isEcma": false,
   "configs": {
     "name": "Default",
