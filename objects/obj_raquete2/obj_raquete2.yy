@@ -1,12 +1,12 @@
 {
-  "name": "obj_colisor",
+  "name": "obj_raquete2",
   "spriteId": {
-    "name": "spr_colisor",
-    "path": "sprites/spr_colisor/spr_colisor.yy",
+    "name": "spr_padle",
+    "path": "sprites/spr_padle/spr_padle.yy",
   },
   "spriteMaskId": null,
-  "visible": false,
-  "solid": true,
+  "visible": true,
+  "solid": false,
   "persistent": false,
   "physicsObject": false,
   "managed": true,
@@ -22,7 +22,9 @@
   "physicsStartAwake": true,
   "physicsKinematic": false,
   "physicsShapePoints": [],
-  "eventList": [],
+  "eventList": [
+    {"isDnD":false,"eventNum":0,"eventType":3,"collisionObjectId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
+  ],
   "properties": [],
   "overriddenProperties": [],
   "parent": {
